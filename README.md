@@ -1,3 +1,3 @@
 # Doctorcare
 
-**Projeto feito na semana NLW#6 da rocketseat**
+**Project made in rocketseat's NLW#6 week**
